@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8">
+    <title>Registration Form</title>
+  </head>
+  <body> 
+    <?php include("navigation.html"); ?>
+    <h1>Welcome to the Website</h1>
+  </body>
+</html>
