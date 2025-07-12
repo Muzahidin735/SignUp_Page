@@ -1,2 +1,1 @@
-## SignUp_Page
-It is a PHP Project which allow users to login/SignUp and also check if a user does exist or not . If a user exist in our database, then it check there password to verify their identity. And if they got verified they also get a automated email on their mentioned email. And if a uses does not exist we prompt them with a message to inform that so such user exist or have loged in. So they should SignUp with email and password. We have taged their email and password required so they must provide their details before proceeding further. They also have to adhere to password and email formate to be signed up successfully.
+
